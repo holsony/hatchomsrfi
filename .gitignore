@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# VS Code (keep shared mcp.json, ignore everything else)
+.vscode/*
+!.vscode/mcp.json
+
+# Local env
+.env

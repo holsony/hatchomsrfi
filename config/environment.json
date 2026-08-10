@@ -1,0 +1,6 @@
+{
+  "name": "HATCH OMS RFI Demo",
+  "environmentUrl": "https://generaldemosl.crm.dynamics.com",
+  "tenantDomain": "slalombizapps.onmicrosoft.com",
+  "pacProfileName": "HATCHRFIDemo"
+}

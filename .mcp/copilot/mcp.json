@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "DataverseMcp": {
+      "type": "http",
+      "url": "https://generaldemosl.crm.dynamics.com/api/mcp"
+    }
+  }
+}

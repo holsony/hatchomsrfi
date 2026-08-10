@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"slalom-mcp-server-generalsldemo": {
+			"url": "https://generaldemosl.crm.dynamics.com/api/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
