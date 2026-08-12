@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppModule>
+  <UniqueName>sl_HATCHOMSDemo</UniqueName>
+  <IntroducedVersion>1.0.0.0</IntroducedVersion>
+  <WebResourceId>953b9fac-1e5e-e611-80d6-00155ded156f</WebResourceId>
+  <OptimizedFor></OptimizedFor>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+  <FormFactor>1</FormFactor>
+  <ClientType>4</ClientType>
+  <NavigationType>0</NavigationType>
+  <AppModuleComponents>
+    <AppModuleComponent type="1" schemaName="msdynmkt_journey" />
+    <AppModuleComponent type="1" schemaName="msdynmkt_virtualsegment" />
+    <AppModuleComponent type="1" schemaName="pricelevel" />
+    <AppModuleComponent type="1" schemaName="quote" />
+    <AppModuleComponent type="60" id="{19c1dd3e-df95-f111-b8dc-000d3a340c29}" />
+    <AppModuleComponent type="60" id="{a77e89be-616e-f111-ab0d-000d3a340c29}" />
+    <AppModuleComponent type="60" id="{2701de60-8f2a-48a4-8262-4a35ca7441fa}" />
+    <AppModuleComponent type="62" schemaName="sl_HATCHOMSDemo" />
+  </AppModuleComponents>
+  <AppModuleRoleMaps>
+    <Role id="{627090ff-40a3-4053-8790-584edc5be201}" />
+    <Role id="{119f245c-3cc8-4b62-b31c-d1a046ced15d}" />
+  </AppModuleRoleMaps>
+  <LocalizedNames>
+    <LocalizedName description="HATCH OMS Demo" languagecode="1033" />
+  </LocalizedNames>
+  <appelements>
+    <appelement uniquename="sl_sl_HATCHOMSDemo_name_sl_HATCHOMSDemo_MCPServer">
+      <iscustomizable>1</iscustomizable>
+      <name>HATCH OMS Demo MCP Server</name>
+      <objectid>
+        <name>sl_HATCHOMSDemo_MCPServer</name>
+      </objectid>
+      <objectidtype>mcpserver</objectidtype>
+    </appelement>
+  </appelements>
+  <appsettings>
+    <appsetting settingdefinitionid.uniquename="AppChannel">
+      <iscustomizable>1</iscustomizable>
+      <value>1</value>
+    </appsetting>
+    <appsetting settingdefinitionid.uniquename="IsSmartEmailAddressValidationControlEnabled">
+      <iscustomizable>1</iscustomizable>
+      <value>true</value>
+    </appsetting>
+    <appsetting settingdefinitionid.uniquename="msdyn_TimelineModernization">
+      <iscustomizable>1</iscustomizable>
+      <value>true</value>
+    </appsetting>
+    <appsetting settingdefinitionid.uniquename="OverrideAppHeaderColor">
+      <iscustomizable>1</iscustomizable>
+      <value>sl_hatchomstheme</value>
+    </appsetting>
+  </appsettings>
+</AppModule>

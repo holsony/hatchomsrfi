@@ -1,0 +1,114 @@
+﻿accountid,name,classification,classification_label
+3db6fe37-636a-f111-ab0e-00224805fad6,Adams County Layer Farms,126490001,Farm
+034e0f94-b05e-f111-a826-00224805f03e,Allegheny Plateau Farms,126490001,Farm
+4fba4ac9-1a5a-f111-a826-00224805f122,Armstrong County Food Pantry Network,1,Food Bank
+e9cc6f3c-ee94-f111-b8dc-000d3a3408fb,Bedford County Food Pantry Network,1,Food Bank
+006dd086-125a-f111-a825-7ced8d711c90,Bethesda Mission Community Food Program,1,Food Bank
+729a61e1-135a-f111-a825-00224805f705,Blue Mountain Layer Farms,126490001,Farm
+b7a12e57-145a-f111-a825-00224805f705,Bradford County Food Pantry Network,1,Food Bank
+6b7bc8e4-546e-f111-9b47-6045bd484aff,Bucks County Food Pantry Network,1,Food Bank
+d0feb6cd-135a-f111-a825-00224805f705,Butler County Food Pantry Network,1,Food Bank
+5dd558e7-135a-f111-a825-00224805f705,Cambria County Food Pantry Network,1,Food Bank
+7222d402-f55d-f111-a826-00224805f2e4,Cameron County Food Pantry Network,1,Food Bank
+54ac148d-b65e-f111-a826-00224805fad6,Capital Area Food Bank,1,Food Bank
+b9c7213c-ee94-f111-b8dc-000d3a340c29,Carbon County Food Pantry Network,1,Food Bank
+669ddb12-ba91-f111-b8dc-000d3a340c29,Central Pennsylvania Food Bank,1,Food Bank
+a6d658e7-135a-f111-a825-00224805f705,Central Pennsylvania Food Bank,1,Food Bank
+d1feb6cd-135a-f111-a825-00224805f705,Central Pennsylvania Food Bank - Altoona Partner Hub,1,Food Bank
+f26cd086-125a-f111-a825-7ced8d711c90,Central Pennsylvania Food Bank - Altoona Partner Hub,1,Food Bank
+b7f4ca47-826b-f111-9b47-6045bd484aff,Central Pennsylvania Food Bank - Bloomsburg Partner Hub,1,Food Bank
+c89961e1-135a-f111-a825-00224805f705,Central Pennsylvania Food Bank - Carlisle Partner Hub,1,Food Bank
+cc9961e1-135a-f111-a825-00224805f705,Central Pennsylvania Food Bank - Carlisle Partner Hub,1,Food Bank
+6027f9e2-1a5a-f111-a826-00224805f122,Central Pennsylvania Food Bank - Chambersburg Partner Hub,1,Food Bank
+d092cbd9-bb5e-f111-a826-00224805fad6,Central Pennsylvania Food Bank - Chambersburg Partner Hub,1,Food Bank
+04a84fee-9992-f111-b8dc-000d3a340079,Central Pennsylvania Food Bank - Gettysburg Partner Hub,1,Food Bank
+ce9961e1-135a-f111-a825-00224805f705,Central Pennsylvania Food Bank - Harrisburg East Hub,1,Food Bank
+abd658e7-135a-f111-a825-00224805f705,Central Pennsylvania Food Bank - Harrisburg West Hub,1,Food Bank
+eb196d81-187a-f111-ab0e-000d3a3408fb,Central Pennsylvania Food Bank - Lancaster Partner Hub,1,Food Bank
+9abebc72-8966-f111-ab0d-00224805fad6,Central Pennsylvania Food Bank - Lancaster Partner Hub,1,Food Bank
+219b61e1-135a-f111-a825-00224805f705,Central Pennsylvania Food Bank - Lebanon Partner Hub,1,Food Bank
+5307b43e-145a-f111-a825-00224805f705,Central Pennsylvania Food Bank - Lebanon Partner Hub,1,Food Bank
+055e7839-ee94-f111-b8db-000d3a340666,Central Pennsylvania Food Bank - Lewistown Partner Hub,1,Food Bank
+f64cd9b8-195a-f111-a826-00224805f122,Central Pennsylvania Food Bank - Lewistown Partner Hub,1,Food Bank
+fa6cd086-125a-f111-a825-7ced8d711c90,Central Pennsylvania Food Bank - Mechanicsburg Partner Hub,1,Food Bank
+b7c7213c-ee94-f111-b8dc-000d3a340c29,Central Pennsylvania Food Bank - Reading Partner Hub,1,Food Bank
+416297b3-d86f-f111-9b48-000d3a3d3872,Central Pennsylvania Food Bank - Reading Partner Hub,1,Food Bank
+4356b259-195a-f111-a826-00224805f122,Central Pennsylvania Food Bank - Scranton Partner Hub,1,Food Bank
+e5137bce-8663-f111-ab0d-00224805f8ba,Central Pennsylvania Food Bank - Scranton Partner Hub,1,Food Bank
+51351a42-ee94-f111-b8dc-000d3a340c29,Central Pennsylvania Food Bank - Selinsgrove Partner Hub,1,Food Bank
+11866b70-7f6b-f111-9b47-6045bd484aff,Central Pennsylvania Food Bank - Selinsgrove Partner Hub,1,Food Bank
+dcd574d1-635f-f111-a826-00224805fc48,Central Pennsylvania Food Bank - State College Partner Hub,1,Food Bank
+f66cd086-125a-f111-a825-7ced8d711c90,Central Pennsylvania Food Bank - State College Partner Hub,1,Food Bank
+d2feb6cd-135a-f111-a825-00224805f705,Central Pennsylvania Food Bank - Sunbury Partner Hub,1,Food Bank
+ca9961e1-135a-f111-a825-00224805f705,Central Pennsylvania Food Bank - Sunbury Partner Hub,1,Food Bank
+bb0154bd-1a5a-f111-a826-00224805f122,Central Pennsylvania Food Bank - Williamsport Hub,1,Food Bank
+e0b69c45-d569-f111-ab0e-00224805f8ba,Central Pennsylvania Food Bank - Williamsport Hub,1,Food Bank
+b4cea450-cb0c-ea11-a813-000d3a1b1223,Central Pennsylvania Food Bank - York Partner Hub,1,Food Bank
+9a7ed133-eb5d-f111-a826-00224805f8a7,Central Pennsylvania Food Bank - York Partner Hub,1,Food Bank
+58d858e7-135a-f111-a825-00224805f705,Chester County Food Bank,1,Food Bank
+340251ed-135a-f111-a825-00224805f705,Chester County Protein Farms,126490001,Farm
+74d558e7-135a-f111-a825-00224805f705,Clarion County Food Pantry Network,1,Food Bank
+8c0251ed-135a-f111-a825-00224805f705,Clearfield County Food Pantry Network,1,Food Bank
+aba5c66e-ed5d-f111-a826-00224805f8a7,Clinton County Food Pantry Network,1,Food Bank
+6cd758e7-135a-f111-a825-00224805f705,Community FoodBank of New Jersey,1,Food Bank
+199b61e1-135a-f111-a825-00224805f705,Cumberland Valley Egg Producers,126490001,Farm
+858ef6c8-145a-f111-a825-00224805f705,Dauphin County Farm Supply,126490001,Farm
+abbe8620-eb5d-f111-a826-00224805f8a7,Delaware County Food Pantry Network,1,Food Bank
+ef59d033-195a-f111-a826-00224805f122,Downtown Daily Bread,1,Food Bank
+549a61e1-135a-f111-a825-00224805f705,Elk County Food Pantry Network,1,Food Bank
+280251ed-135a-f111-a825-00224805f705,Food Bank of Delaware,1,Food Bank
+d5d658e7-135a-f111-a825-00224805f705,Food Bank of South Jersey,1,Food Bank
+e7e654a3-195a-f111-a826-00224805f122,Forest County Food Pantry Network,1,Food Bank
+e99a61e1-135a-f111-a825-00224805f705,Franklin County Protein Farms,126490001,Farm
+f44f1505-5d6e-f111-9b47-6045bd484aff,Frederick County Food Bank,1,Food Bank
+dbd758e7-135a-f111-a825-00224805f705,Fulton County Food Pantry Network,1,Food Bank
+d3feb6cd-135a-f111-a825-00224805f705,Happy Valley Cage-Free Farms,126490001,Farm
+f86cd086-125a-f111-a825-7ced8d711c90,Helping Harvest Food Bank,1,Food Bank
+4cf16c1c-e96b-f111-ab0f-00224805fc48,Hershey Food Bank and Community Outreach,1,Food Bank
+9fc74f02-d469-f111-ab0e-00224805f8ba,Huntingdon County Food Pantry,1,Food Bank
+f99a61e1-135a-f111-a825-00224805f705,Indiana County Food Pantry Network,1,Food Bank
+64d858e7-135a-f111-a825-00224805f705,Jefferson County Food Pantry Network,1,Food Bank
+93d558e7-135a-f111-a825-00224805f705,Juniata County Food Pantry,1,Food Bank
+bdc7213c-ee94-f111-b8dc-000d3a340c29,Juniata River Family Farms,126490001,Farm
+38d658e7-135a-f111-a825-00224805f705,Keystone Cage-Free Farms,126490001,Farm
+c4b1c6fe-ed6b-f111-9b47-6045bd484aff,Keystone Cage-Free Farms,126490001,Farm
+b1d658e7-135a-f111-a825-00224805f705,Lancaster County Food Hub,1,Food Bank
+02d658e7-135a-f111-a825-00224805f705,Lancaster Valley Egg Farms,126490001,Farm
+f9d758e7-135a-f111-a825-00224805f705,Lancaster Valley Egg Farms,126490001,Farm
+00d858e7-135a-f111-a825-00224805f705,Lawrence County Food Pantry Network,1,Food Bank
+4e99bc73-195a-f111-a826-00224805f122,Lebanon County Poultry Farms,126490001,Farm
+00d658e7-135a-f111-a825-00224805f705,Lehigh County Food Pantry Network,1,Food Bank
+046dd086-125a-f111-a825-7ced8d711c90,Luzerne County Food Pantry Network,1,Food Bank
+4ad758e7-135a-f111-a825-00224805f705,Lycoming County Food Pantry Network,1,Food Bank
+59093ecc-195a-f111-a826-00224805f122,Maryland Food Bank,1,Food Bank
+cae1e1e1-2361-f111-ab0c-00224805fc48,McKean County Food Pantry Network,1,Food Bank
+42d758e7-135a-f111-a825-00224805f705,Mercer County Food Pantry Network,1,Food Bank
+fc1d1f68-1f6c-f111-ab0f-00224805f8ba,Mifflin Ridge Egg Co-op,126490001,Farm
+70935066-d569-f111-ab0e-00224805f8ba,Monroe County Food Pantry Network,1,Food Bank
+569a61e1-135a-f111-a825-00224805f705,Montgomery County Food Pantry Network,1,Food Bank
+3fd758e7-135a-f111-a825-00224805f705,Montour County Food Pantry Network,1,Food Bank
+dbdd0b93-4a1b-4848-b83a-39352f6b2e7a,New Hope Ministries,1,Food Bank
+e34a47d9-df94-f111-b8dc-000d3a340c29,Nittany Valley Farm Partners,126490001,Farm
+6d8bf7d6-1a5a-f111-a826-00224805f122,Northampton County Food Pantry Network,1,Food Bank
+68b1bcbb-145a-f111-a825-00224805f705,Northern Dauphin Food Pantry,1,Food Bank
+e3b45d9d-f94e-f111-bec6-00224805f122,Northumberland Poultry Cooperative,126490001,Farm
+a0d558e7-135a-f111-a825-00224805f705,Penn Dutch Protein Farms,126490001,Farm
+1dd658e7-135a-f111-a825-00224805f705,Perry County Food Bank,1,Food Bank
+d672dc69-145a-f111-a825-00224805f705,Philabundance,1,Food Bank
+87a52514-f35d-f111-a826-00224805f8a7,Potter County Food Pantry Network,1,Food Bank
+616bf4a9-195a-f111-a826-00224805f122,Schuylkill County Food Pantry Network,1,Food Bank
+43c7213c-ee94-f111-b8dc-000d3a340c29,Share Food Program,1,Food Bank
+a4cea450-cb0c-ea11-a813-000d3a1b1223,Snyder County Egg Producers,126490001,Farm
+1bcd6f3c-ee94-f111-b8dc-000d3a3408fb,Somerset County Food Pantry Network,1,Food Bank
+cbd758e7-135a-f111-a825-00224805f705,Sullivan County Food Pantry Network,1,Food Bank
+e35901bf-195a-f111-a826-00224805f122,Susquehanna Poultry Cooperative,126490001,Farm
+fc6cd086-125a-f111-a825-7ced8d711c90,Susquehanna Poultry Cooperative,126490001,Farm
+c20251ed-135a-f111-a825-00224805f705,Tioga County Food Pantry Network,1,Food Bank
+f46cd086-125a-f111-a825-7ced8d711c90,Twin Valley Poultry Farms,126490001,Farm
+fe6cd086-125a-f111-a825-7ced8d711c90,Union County Food Pantry Network,1,Food Bank
+aa1969ee-145a-f111-a825-00224805f705,Venango County Food Pantry Network,1,Food Bank
+45c7213c-ee94-f111-b8dc-000d3a340c29,Warren County Food Pantry Network,1,Food Bank
+41c7213c-ee94-f111-b8dc-000d3a340c29,Water Street Mission Food Distribution,1,Food Bank
+769a61e1-135a-f111-a825-00224805f705,Wyoming County Food Pantry Network,1,Food Bank
+88cea450-cb0c-ea11-a813-000d3a1b1223,York County Food Bank,1,Food Bank
+026dd086-125a-f111-a825-7ced8d711c90,York Heritage Farms,126490001,Farm

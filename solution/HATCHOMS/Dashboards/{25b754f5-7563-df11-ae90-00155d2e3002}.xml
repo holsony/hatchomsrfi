@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard unmodified="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LocalizedNames>
+    <LocalizedName description="Sales Performance Dashboard" languagecode="1033" />
+  </LocalizedNames>
+  <Descriptions>
+    <Description description="Shows the sales performance of the sales team. Typical users of this dashboard are Sales Managers and Sales VPs." languagecode="1033" />
+  </Descriptions>
+  <FormId>{25b754f5-7563-df11-ae90-00155d2e3002}</FormId>
+</Dashboard>

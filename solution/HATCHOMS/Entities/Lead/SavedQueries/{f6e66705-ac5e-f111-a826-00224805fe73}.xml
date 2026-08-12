@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>0</isdefault>
+    <savedqueryid>{f6e66705-ac5e-f111-a826-00224805fe73}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="fullname" select="1" icon="1" preview="1">
+        <row name="result" id="leadid">
+          <cell name="firstname" width="200" />
+          <cell name="middlename" width="118" />
+          <cell name="lastname" width="200" />
+          <cell name="jobtitle" width="200" />
+          <cell name="companyname" width="200" />
+          <cell name="industrycode" width="100" />
+          <cell name="address1_country" width="131" />
+          <cell name="telephone1" width="129" />
+          <cell name="mobilephone" width="119" />
+          <cell name="emailaddress1" width="200" />
+          <cell name="address1_line1" width="100" />
+          <cell name="address1_stateorprovince" width="122" />
+          <cell name="address1_city" width="100" />
+          <cell name="address1_postalcode" width="133" />
+          <cell name="leadsourcecode" width="111" />
+          <cell name="estimatedamount" width="100" />
+          <cell name="subject" width="100" />
+          <cell name="prioritycode" width="100" />
+          <cell name="websiteurl" width="100" />
+        </row>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" output-format="xml-platform" mapping="logical">
+        <entity name="lead">&lt;attribute name="firstname" /&gt;&lt;attribute name="lastname" /&gt;&lt;attribute name="companyname" /&gt;&lt;attribute name="jobtitle" /&gt;&lt;attribute name="emailaddress1" /&gt;<attribute name="firstname" /><attribute name="lastname" /><attribute name="companyname" /><attribute name="jobtitle" /><attribute name="emailaddress1" /><attribute name="leadid" /><attribute name="estimatedamount" /><attribute name="address1_city" /><attribute name="address1_country" /><attribute name="address1_postalcode" /><attribute name="websiteurl" /><attribute name="address1_line1" /><attribute name="address1_stateorprovince" /><attribute name="middlename" /><attribute name="industrycode" /><attribute name="subject" /><attribute name="prioritycode" /><attribute name="telephone1" /><attribute name="mobilephone" /><attribute name="leadsourcecode" /><order attribute="firstname" descending="false" /></entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="Leads - Import" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

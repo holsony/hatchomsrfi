@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomTheme
+    basePaletteColor="#1D5C63"
+    vibrancy="0"
+    hueTorsion="-20">
+
+    <AppHeaderColors
+        background="#1D5C63"
+        foreground="#FFFFFF"
+        backgroundHover="#2E7A83"
+        foregroundHover="#FFFFFF"
+        backgroundPressed="#17484E"
+        foregroundPressed="#FFFFFF"
+        backgroundSelected="#F5A623"
+        foregroundSelected="#FFFFFF" />
+
+</CustomTheme>

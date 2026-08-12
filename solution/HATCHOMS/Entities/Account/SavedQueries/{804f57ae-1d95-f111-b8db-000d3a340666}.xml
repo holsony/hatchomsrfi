@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>0</isdefault>
+    <savedqueryid>{804f57ae-1d95-f111-b8db-000d3a340666}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="name" select="1" icon="1" preview="1">
+        <row name="result" id="accountid">
+          <cell name="name" width="300" />
+          <cell name="accountclassificationcode" width="117" />
+          <cell name="ownerid" width="225" />
+          <cell name="a_7442f54bb1cc453aa9ba3e7424a35732.territoryid" width="178" />
+          <cell name="primarycontactid" width="197" />
+          <cell name="a_050d579456ff47a29f98e88124555521.emailaddress1" width="221" />
+          <cell name="address1_composite" width="300" />
+        </row>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" output-format="xml-platform" mapping="logical" distinct="true">
+        <entity name="account">
+          <attribute name="name" />
+          <attribute name="accountid" />
+          <filter type="and">
+            <condition attribute="statecode" operator="eq" value="0" />
+          </filter>
+          <attribute name="primarycontactid" />
+          <attribute name="accountclassificationcode" />
+          <link-entity alias="a_050d579456ff47a29f98e88124555521" name="contact" to="primarycontactid" from="contactid" link-type="outer" visible="false">
+            <attribute name="emailaddress1" />
+          </link-entity>
+          <attribute name="address1_composite" />
+          <attribute name="ownerid" />
+          <link-entity alias="a_7442f54bb1cc453aa9ba3e7424a35732" name="systemuser" to="owninguser" from="systemuserid" link-type="outer" visible="false">
+            <attribute name="territoryid" />
+          </link-entity>
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="HATCH Accounts" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>
